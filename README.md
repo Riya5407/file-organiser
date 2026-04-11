@@ -37,8 +37,8 @@ Make sure you have [Python](https://www.python.org/) installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/Riya5407/file-organizer.git
-cd file-organizer
+git clone https://github.com/Riya5407/file-organiser.git
+cd file-organiser
 ```
 
 ### 3. Run the Script
